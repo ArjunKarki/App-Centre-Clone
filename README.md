@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/f4f57c73-bf11-42ab-b84d-8a2feee72e23/branches/cicd/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/76563d25-54a4-4cea-b799-3658c0e4ab5c/branches/cicd/badge)](https://appcenter.ms)
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
